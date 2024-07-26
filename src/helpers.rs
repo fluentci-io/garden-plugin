@@ -28,7 +28,7 @@ pub fn setup_garden(version: &str) -> Result<String, Error> {
     dag().set_envs(vec![
         ("ARCH".into(), arch),
         ("OS".into(), os),
-        ("GARDEN_VERSION".into(), "0.13.35".into()),
+        ("VERSION".into(), "0.13.35".into()),
     ])?;
 
     if !version.is_empty() {
