@@ -1,5 +1,6 @@
 # Garden Plugin
 
+[![fluentci pipeline](https://shield.fluentci.io/x/garden)](https://pkg.fluentci.io/garden)
 [![ci](https://github.com/fluentci-io/garden-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/fluentci-io/garden-plugin/actions/workflows/ci.yml)
 
 This plugin sets up your CI/CD pipeline with a specific version of [garden](https://garden.io/).
