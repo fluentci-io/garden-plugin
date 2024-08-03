@@ -18,7 +18,7 @@ fluentci run --wasm garden setup
 | Name     | Description                                |
 | -------- | ------------------------------------------ |
 | setup    | Installs a specific version of garden.     |
-| build    | Perform you Builds.                        |
+| build    | Perform your Builds.                        |
 | cleanup  | Cleanup resources.                         |
 | deploy   | Deploy actions to your environment.        |
 | get      | Retrieve and output data and objects, e.g. secrets, status info etc. |
